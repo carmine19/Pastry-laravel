@@ -14,6 +14,22 @@
 </ul>
 
 
+<h1>Tecnology</h1>
+
+<ul>
+    <li>Laravel</li>
+    <li>Php</li>
+    <li>Mysql</li>
+    <li>Blade</li>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Sass</li>
+    <li>JS</li>
+    <li>NPM</li>
+    <li>Composer</li>
+</ul>
+
+
 <img width="1431" alt="Schermata 2021-03-30 alle 23 46 03" src="https://user-images.githubusercontent.com/45883138/113062470-18bb4900-91b4-11eb-9cd9-3b18103f46df.png">
 
 <img width="1440" alt="Schermata 2021-03-30 alle 23 46 22" src="https://user-images.githubusercontent.com/45883138/113062482-1d7ffd00-91b4-11eb-8918-c60d88805179.png">
